@@ -5,5 +5,5 @@ This is a really awesome website
 Updates made on MAIN before rebase
 
 ## Repository Purpose
-This is just a README file.
-This was edited locally.
+The purpose of this file is to provide examples
+on how to use Git and GitHub together.
