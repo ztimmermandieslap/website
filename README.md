@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-Now editing on update-readme
-
-Updating locally
+Updates made on MAIN before rebase
